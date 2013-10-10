@@ -482,6 +482,7 @@
 				399AC9E21806B1FA00F966FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		399AC9E31806B1FA00F966FE /* Build configuration list for PBXNativeTarget "Lexicon HRTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				399AC9E51806B1FA00F966FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
