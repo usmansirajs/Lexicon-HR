@@ -18,7 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSURL *url = [[NSURL alloc] initWithString:@"http://192.168.1.8/lexiconhr/index.php/ipad"];
+    NSURL *url = [[NSURL alloc] initWithString:@"http://lexiconapp.com/lexi4382/index.php?/ipad"];
     NSURLRequest *request = [[NSURLRequest alloc] initWithURL:url];
     //self.webView.scalesPageToFit = YES;
     [self.webView loadRequest:request];
