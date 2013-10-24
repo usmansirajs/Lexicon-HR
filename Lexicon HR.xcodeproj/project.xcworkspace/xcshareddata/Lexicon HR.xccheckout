@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8874DA09-A44D-45AB-B3E6-1DF838DFE796</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lexicon HR</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>626F6315-FA01-4924-8850-690CAB356773</key>
+		<string>https://github.com/usmansirajs/Lexicon-HR.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Lexicon HR.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>626F6315-FA01-4924-8850-690CAB356773</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/usmansirajs/Lexicon-HR.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>626F6315-FA01-4924-8850-690CAB356773</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>626F6315-FA01-4924-8850-690CAB356773</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lexicon HR</string>
+		</dict>
+	</array>
+</dict>
+</plist>
